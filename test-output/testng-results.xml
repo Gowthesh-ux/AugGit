@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="30" passed="30" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T04:39:12Z" name="Suite" finished-at="2024-07-24T04:39:48Z" duration-ms="35838">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T04:39:12Z" name="Test" finished-at="2024-07-24T04:39:48Z" duration-ms="35838">
+      <class name="org.exe.TC02_SearchHotelPage">
+        <test-method signature="validateBrowserLaunch()[pri:4, instance:org.exe.TC02_SearchHotelPage@7d900ecf]" started-at="2024-07-24T10:09:23Z" name="validateBrowserLaunch" finished-at="2024-07-24T10:09:26Z" duration-ms="3701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowserLaunch -->
+        <test-method signature="validatePage()[pri:5, instance:org.exe.TC02_SearchHotelPage@7d900ecf]" started-at="2024-07-24T10:09:26Z" name="validatePage" finished-at="2024-07-24T10:09:27Z" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="validateLoginCred()[pri:6, instance:org.exe.TC02_SearchHotelPage@7d900ecf]" started-at="2024-07-24T10:09:27Z" name="validateLoginCred" finished-at="2024-07-24T10:09:28Z" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginCred -->
+        <test-method signature="userIsInSearchHotelPage()[pri:7, instance:org.exe.TC02_SearchHotelPage@7d900ecf]" started-at="2024-07-24T10:09:28Z" name="userIsInSearchHotelPage" finished-at="2024-07-24T10:09:28Z" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsInSearchHotelPage -->
+        <test-method signature="validate_SearchHotelPage()[pri:8, instance:org.exe.TC02_SearchHotelPage@7d900ecf]" started-at="2024-07-24T10:09:28Z" name="validate_SearchHotelPage" finished-at="2024-07-24T10:09:32Z" duration-ms="3880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_SearchHotelPage -->
+      </class> <!-- org.exe.TC02_SearchHotelPage -->
+      <class name="org.exe.TC04_ValidatePaymentPage">
+        <test-method signature="validateBrowserLaunch()[pri:15, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:44Z" name="validateBrowserLaunch" finished-at="2024-07-24T10:09:46Z" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowserLaunch -->
+        <test-method signature="validatePage()[pri:16, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="validatePage" finished-at="2024-07-24T10:09:46Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="validateLoginCred()[pri:17, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="validateLoginCred" finished-at="2024-07-24T10:09:46Z" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginCred -->
+        <test-method signature="userIsInSearchHotelPage()[pri:18, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="userIsInSearchHotelPage" finished-at="2024-07-24T10:09:46Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsInSearchHotelPage -->
+        <test-method signature="validate_SearchHotelPage()[pri:19, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="validate_SearchHotelPage" finished-at="2024-07-24T10:09:46Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_SearchHotelPage -->
+        <test-method signature="validate_Continue()[pri:20, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="validate_Continue" finished-at="2024-07-24T10:09:46Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Continue -->
+        <test-method signature="validate_Conf()[pri:21, instance:org.exe.TC04_ValidatePaymentPage@4007f65e]" started-at="2024-07-24T10:09:46Z" name="validate_Conf" finished-at="2024-07-24T10:09:46Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Conf -->
+      </class> <!-- org.exe.TC04_ValidatePaymentPage -->
+      <class name="org.exe.TC05_ValidateBookingPage">
+        <test-method signature="validateBrowserLaunch()[pri:22, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:46Z" name="validateBrowserLaunch" finished-at="2024-07-24T10:09:48Z" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowserLaunch -->
+        <test-method signature="validatePage()[pri:23, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="validatePage" finished-at="2024-07-24T10:09:48Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="validateLoginCred()[pri:24, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="validateLoginCred" finished-at="2024-07-24T10:09:48Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginCred -->
+        <test-method signature="userIsInSearchHotelPage()[pri:25, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="userIsInSearchHotelPage" finished-at="2024-07-24T10:09:48Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsInSearchHotelPage -->
+        <test-method signature="validate_SearchHotelPage()[pri:26, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="validate_SearchHotelPage" finished-at="2024-07-24T10:09:48Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_SearchHotelPage -->
+        <test-method signature="validate_Continue()[pri:27, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="validate_Continue" finished-at="2024-07-24T10:09:48Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Continue -->
+        <test-method signature="validate_Conf()[pri:28, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="validate_Conf" finished-at="2024-07-24T10:09:48Z" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Conf -->
+        <test-method signature="check_Overview()[pri:29, instance:org.exe.TC05_ValidateBookingPage@1a245833]" started-at="2024-07-24T10:09:48Z" name="check_Overview" finished-at="2024-07-24T10:09:48Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Overview -->
+      </class> <!-- org.exe.TC05_ValidateBookingPage -->
+      <class name="org.exe.TC01_LoginPage">
+        <test-method signature="validateBrowserLaunch()[pri:0, instance:org.exe.TC01_LoginPage@6b695b06]" started-at="2024-07-24T10:09:13Z" name="validateBrowserLaunch" finished-at="2024-07-24T10:09:21Z" duration-ms="8129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowserLaunch -->
+        <test-method signature="validatePage()[pri:1, instance:org.exe.TC01_LoginPage@6b695b06]" started-at="2024-07-24T10:09:21Z" name="validatePage" finished-at="2024-07-24T10:09:21Z" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="validateLoginCred()[pri:2, instance:org.exe.TC01_LoginPage@6b695b06]" started-at="2024-07-24T10:09:21Z" name="validateLoginCred" finished-at="2024-07-24T10:09:22Z" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginCred -->
+        <test-method signature="userIsInSearchHotelPage()[pri:3, instance:org.exe.TC01_LoginPage@6b695b06]" started-at="2024-07-24T10:09:22Z" name="userIsInSearchHotelPage" finished-at="2024-07-24T10:09:23Z" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsInSearchHotelPage -->
+      </class> <!-- org.exe.TC01_LoginPage -->
+      <class name="org.exe.TC03_ValidateSelectHotelPage">
+        <test-method signature="validateBrowserLaunch()[pri:9, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:32Z" name="validateBrowserLaunch" finished-at="2024-07-24T10:09:36Z" duration-ms="3784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowserLaunch -->
+        <test-method signature="validatePage()[pri:10, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:36Z" name="validatePage" finished-at="2024-07-24T10:09:36Z" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="validateLoginCred()[pri:11, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:36Z" name="validateLoginCred" finished-at="2024-07-24T10:09:37Z" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginCred -->
+        <test-method signature="userIsInSearchHotelPage()[pri:12, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:37Z" name="userIsInSearchHotelPage" finished-at="2024-07-24T10:09:37Z" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsInSearchHotelPage -->
+        <test-method signature="validate_SearchHotelPage()[pri:13, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:37Z" name="validate_SearchHotelPage" finished-at="2024-07-24T10:09:41Z" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_SearchHotelPage -->
+        <test-method signature="validate_Continue()[pri:14, instance:org.exe.TC03_ValidateSelectHotelPage@6f01b95f]" started-at="2024-07-24T10:09:41Z" name="validate_Continue" finished-at="2024-07-24T10:09:44Z" duration-ms="2859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Continue -->
+      </class> <!-- org.exe.TC03_ValidateSelectHotelPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
